@@ -1,16 +1,28 @@
 # clockflask
 
-Initialize a local Git repository
-`git init
+This is a simple clock application built using Python and Flask that displays the current time.
+
+## Prerequisites
+
+- Python 3.x
+- pip
+- flask
+
+# Installation:
+
+## Install Flask
+
+`pip install flask
 `
-Add all files to the staging area
-`git add .
+
+
+
+1. Clone the repository:
+   
+
+`git clone https://github.com/daherati/clockflask
 `
-Commit the files
-`git commit -m "Initial commit"
+Create virtual environment:
+
+`python3 -m venv venv
 `
-Add the remote repository URL
-`git remote add origin <YOUR_REMOTE_REPOSITORY_URL>
-`
-Push the code to the remote repository
-`git push -u origin master`
