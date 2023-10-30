@@ -26,3 +26,15 @@ Create virtual environment:
 
 `python3 -m venv venv
 `
+## Run the program:
+
+`python app.py
+`
+
+## Browse:
+
+`http://localhost:5000
+`
+or:
+
+`http://127.0.0.1:5000`
