@@ -22,16 +22,18 @@ This is a simple clock application built using Python and Flask that displays th
 
 `git clone https://github.com/daherati/clockflask
 `
-Create virtual environment:
+
+2. Create virtual environment:
 
 `python3 -m venv venv
 `
-## Run the program:
+
+3. Run the program:
 
 `python app.py
 `
 
-## Browse:
+4. Browse:
 
 `http://localhost:5000
 `
